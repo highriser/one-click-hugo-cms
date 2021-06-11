@@ -6,6 +6,7 @@ description: You are at the proper place to understand about what is the best
   significant part of any kitchen. It’s needed to get a large range of uses,
   that range from getting ready the batter that is smooth into pulling and
   mixing fresh fruit drinks.
+image: img/best-mixer-grinders-in-india.png
 ---
 <div class="space-page-content box-100 relative">
 						
